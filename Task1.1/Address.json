@@ -1,0 +1,30 @@
+[
+	{
+		"dNO": 42,
+		"city": "Kaniyur",
+		"name": "SATHISHKUMAR",
+		"state": "Tamilnadu",
+		"ID": 1
+	},
+	{
+		"dNO": 21,
+		"city": "ERODU",
+		"name": "LINGES",
+		"state": "TAMILNADU",
+		"ID": 2
+	},
+	{
+		"dNO": 32,
+		"city": "Kangayam",
+		"name": "gugan",
+		"state": "tamilnadu",
+		"ID": 3
+	},
+	{
+		"dNO": 33,
+		"city": "udumalai",
+		"name": "Suresh",
+		"state": "tn",
+		"ID": 4
+	}
+]
